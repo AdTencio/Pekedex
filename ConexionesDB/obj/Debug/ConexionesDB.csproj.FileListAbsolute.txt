@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\bin\Debug\ConexionesDB.exe.config
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\bin\Debug\ConexionesDB.exe
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\bin\Debug\ConexionesDB.pdb
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\obj\Debug\ConexionesDB.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\obj\Debug\ConexionesDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\obj\Debug\ConexionesDB.Form1.resources
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\obj\Debug\ConexionesDB.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\obj\Debug\ConexionesDB.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\obj\Debug\ConexionesDB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\obj\Debug\ConexionesDB.exe
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\obj\Debug\ConexionesDB.pdb
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\obj\Debug\ConexionesDB.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\bin\Debug\negocio.dll
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\bin\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\Conexiones DB\ConexionesDB\obj\Debug\ConexionesDB.frmAltaPokemon.resources
